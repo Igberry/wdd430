@@ -1,0 +1,26 @@
+{
+  "name": "wdd430-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Igberry/wdd430.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Igberry/wdd430/issues"
+  },
+  "homepage": "https://github.com/Igberry/wdd430#readme",
+  "devDependencies": {
+    "vite": "^7.1.12"
+  }
+}
